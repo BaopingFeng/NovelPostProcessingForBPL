@@ -15,4 +15,4 @@ N. Doan, S. A. Hashemi, M. Mondelli and W. J. Gross, "On the Decoding of Polar C
 
 We propose a two-level detection formula and its corresponding post-processing method to improve the performance of BPL decoding. 
 
-see paper "A Novel Post-Processing Method for BPL decoding of Polar Codes" submit to IEEE Communication Letter.
+see paper "A Novel Post-Processing Method for BPL decoding of Polar Codes" IEEE Communication Letter.
