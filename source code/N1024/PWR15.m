@@ -5,6 +5,6 @@ if N<1024
 end
 [~,index] = sort(val);
 frozen_sets = sort(index(1:N-K));
-free_sets = sort(index(K+1:N));
+free_sets = sort(index(N-K+1:N));
 end
  
